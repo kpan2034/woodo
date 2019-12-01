@@ -11,12 +11,22 @@ _If a tree branch shakes when there is no wind, it’s a Sudowoodo, not a tree. 
 
 ## [Usage](https://www.smogon.com/dex/sm/pokemon/sudowoodo/)
 PU
+
 _Competitive set shamelessly stolen from Smogon:_
+
 Sudowoodo @ **Choice Band**
+
 **Ability**: Rock Head
+
 **EVs**: 252 Atk / 4 Def / 252 Spe
+
 **Adamant** Nature
+
 - Head Smash
+
 - Earthquake
+
 - Sucker Punch
+
 - Wood Hammer
+
